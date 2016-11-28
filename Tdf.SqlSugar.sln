@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdf.SqlSugar", "Tdf.SqlSugar\Tdf.SqlSugar.csproj", "{56A1C262-169B-4851-8E3D-DD171F04D331}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tdf.SqlSugarTest", "Tdf.SqlSugarTest\Tdf.SqlSugarTest.csproj", "{9FB1A428-B140-4597-9DB5-C2757C8B644D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{56A1C262-169B-4851-8E3D-DD171F04D331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A1C262-169B-4851-8E3D-DD171F04D331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A1C262-169B-4851-8E3D-DD171F04D331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB1A428-B140-4597-9DB5-C2757C8B644D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB1A428-B140-4597-9DB5-C2757C8B644D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB1A428-B140-4597-9DB5-C2757C8B644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB1A428-B140-4597-9DB5-C2757C8B644D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
